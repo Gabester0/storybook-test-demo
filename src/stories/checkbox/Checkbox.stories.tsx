@@ -1,6 +1,6 @@
 import React from 'react';
 
-import { Checkbox } from './Checkbox.tsx';
+import { Checkbox } from '../checkbox/index';
 
 export default {
     title: 'Example/Checkbox',
